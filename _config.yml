@@ -1,0 +1,75 @@
+exclude:
+- README.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- submission.md
+
+# 2. Installed Gems
+plugins:
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-feed
+- jemoji
+
+# 4. Jekyll settings
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: Europe/Rome # Timezone for blog posts and alike
+
+# 6. Jekyll collections settings
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: page # Default layout
+      image: "/assets/placeholder-social.png" # Default image for sharing
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post # Default layout
+      image: "/assets/placeholder-social.png" # Default image for sharing
+
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+title: "Cybersecurity Days 2019" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/images/cybersecurity_days.svg" # Site logo, also used in jekyll-seo-tag
+description: "Cybersecurity Days 2019" # Site description and default description, also used in jekyll-seo-tag
+baseurl: "" # Site url, also used in jekyll-seo-tag
+email: "concurrency@sdu.dk"
+avatarurl: "/assets/images/favicon.ico" # Uses avatars for favicons to get multiple sites, eg Gravatar, Twitter, GitHub
+header_left: |
+  <a style="color:inherit; text-decoration: none !important;" href="/"><h2>
+  <img style="width: 50px; padding-bottom: 5px;" src="/assets/images/cybersecurity_days.svg" alt="">
+  Cybersecurity Days 2019</h2></a>
+header_right: |
+  <ul style="list-style-type:none; margin:0; padding:0; overflow:hidden;">
+    <li style="float:right;">
+      <a style="display:block; color:inherit; text-decoration:none !important;">
+        <img class="img-responsive" src="/assets/images/cyberschool_logo.jpg" alt="">
+      </a>
+    </li>
+    <li style="float:right; margin-right:138px;">
+      <p style="margin-top:10px; margin-bottom:-5px;">Odense</p>
+      <p>Oct. 2019</p>
+    </li>
+  </ul>
+# 8. Site navigation
+navigation_header:
+  Home: /
+  Attending: /attending/
+  Program: /program/
+  Registration: /registration/
+  Contact: /contact/  
