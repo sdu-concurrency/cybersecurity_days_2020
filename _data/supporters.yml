@@ -1,37 +1,18 @@
-- type: Sponsor
-  tier: gold
-  name: Adesso
-  link: https://www.adesso.de
-  logo: /2019/assets/images/supporters/adesso.jpg
-- type: Sponsor
-  name: InnoQ
-  tier: gold
-  link: https://www.innoq.com
-  logo: /2019/assets/images/supporters/innoq.jpg
-- type: Sponsor
-  name: Materna
-  tier: gold
-  link: https://www.materna.de
-  logo: /2019/assets/images/supporters/materna.jpg
-- type: Sponsor
-  name: italianaSoftware
-  tier: silver
-  link: http://www.italianasoftware.com/
-  logo: /2019/assets/images/supporters/italianasoftware.gif
-- type: Sponsor
-  name: Vanderlande
-  tier: silver
-  link: https://www.vanderlande.com/
-  logo: /2019/assets/images/supporters/vanderlande.jpg
-- type: Supporter
-  name: University of Applied Sciences and Arts Dortmund
-  link: https://www.fh-dortmund.de
-  logo: /2019/assets/images/supporters/fh.jpg
-- type: Supporter
-  name: University of Southern Denmark
+- name: Center for Cybersikkerhed - Forsvarsministeriet
+  link: https://fe-ddis.dk/CFCS
+  logo: /assets/images/supporters/fe.png
+- name: University of Southern Denmark
   link: https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi
-  logo: /2019/assets/images/supporters/sdu.png
-- type: Media Partner
-  name: MDPI Computers
-  link: https://www.mdpi.com/journal/computers
-  logo: /2019/assets/images/supporters/mdpi-computers.png
+  logo: /assets/images/supporters/sdu.png
+- name: Aalborg University
+  link: https://www.aau.dk/
+  logo: /assets/images/supporters/aau.png
+- name: Copenhagen Business School
+  link: https://www.cbs.dk/
+  logo: /assets/images/supporters/cbs.png
+- name: Københavns Erhvervsakademi
+  link: https://kea.dk/
+  logo: /assets/images/supporters/kea.png
+- name: Technical University of Denmark
+  link: https://www.compute.dtu.dk/
+  logo: /assets/images/supporters/dtu.png

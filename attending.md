@@ -1,14 +1,13 @@
 ---
 title: Attending
 layout: page
-feature_image: "/assets/images/westfalenpark3.jpg"
+feature_image: "/assets/images/aelling.jpg"
 ---
 
 <ul class="nav nav-tabs nav-justified">
   <li role="presentation" class="active">
-    <a href="#venue">Venue: Dortmund</a></li>
+    <a href="#venue">Venue: Odense</a></li>
   <li role="presentation"><a href="#hotels">Hotels</a></li>
-  <li role="presentation"><a href="#visas">Visas</a></li>
 </ul>
 
 <div class="tab-content">
@@ -19,14 +18,8 @@ feature_image: "/assets/images/westfalenpark3.jpg"
 </div>
 
 <div role="tabpanel" class="tab-pane" id="hotels">
-
+   
   {% include_relative include_md.html file="subpages/hotels.md" %}
-
-</div>
-
-<div role="tabpanel" class="tab-pane" id="visas">
-
-  {% include_relative include_md.html file="subpages/visas.md" %}
 
 </div>
 

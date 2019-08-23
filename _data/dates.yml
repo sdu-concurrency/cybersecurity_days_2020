@@ -1,73 +1,20 @@
-- summary: Abstract Submission Deadline
-  id: submission
-  expired: true
-  entries:
-    - date: 2018-12-02
-      zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
-    - date: 2018-11-30
-      zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
-- summary: Author Notification
-  id: notification
-  expired: true
-  entries: 
-    - date: 2019-01-18
-      zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
-  
-- summary: Camera-ready
-  id: camera-ready
-  expired: true
-  entries: 
-    - date: 2019-02-01
-      zone:
-        tzid: Etc/GMT-12
-        label: AoE (UTC-12)
-  
-- summary: Registration
-  hide_from: ics
-  id: registration
-  expired: true
-  entries: 
-    - from: 2018-11-05
-      to: 2019-02-04
-      zone:
-        tzid: Europe/Berlin
-        label: CET (UTC+1)
-
-- summary: Registration opens
-  hide_from: website
-  id: registration_opens
-  expired: true
-  entries: 
-    - date: 2018-11-05
-      zone:
-        tzid: Europe/Berlin
-        label: CET (UTC+1)
-
-
 - summary: Registration closes
-  hide_from: website
   id: registration_closes
-  expired: true
+  expired: false
   entries: 
-    - date: 2019-02-04
+    - date: 2019-09-30
       zone:
         tzid: Europe/Berlin
         label: CET (UTC+1)
 
 - summary: 
-    website: Conference
-    calendar: Microservices 2019
-  id: conference
-  expired: true
+    website: School Days
+    calendar: Cybersecurity Days 2019
+  id: cybersecurity school
+  expired: false
   entries:
-    - from: 2019-02-19
-      to: 2019-02-21
+    - from: 2019-10-21
+      to: 2019-10-23
       zone:
         tzid: Europe/Berlin
         label: CET (UTC+1)

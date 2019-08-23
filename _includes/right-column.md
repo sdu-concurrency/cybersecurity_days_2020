@@ -85,33 +85,10 @@
 {% for supporter in site.data.supporters %}
 <li class="list-group-item">
   <div class="row">
-  <div class="col-sm-7 col-md-9 vcenter"><a href="{{ supporter.link }}"><img class="img-responsive center-block" src="{{ supporter.logo }}" alt="{{supporter.name}}"></a></div><div class="col-sm-4 col-md-3 text-center text-muted vcenter">{% if supporter.tier %}{{supporter.tier | capitalize }} {% endif%}{{supporter.type}}</div>
+  <div class="col-xs-offset-3 col-xs-6"><a href="{{ supporter.link }}"><img style="max-height:100px;" class="img-responsive center-block" src="{{ supporter.logo }}" alt="{{supporter.name}}"></a></div><div class="col-sm-4 col-md-3 text-center text-muted vcenter">{% if supporter.tier %}{{supporter.tier | capitalize }} {% endif%}{{supporter.type}}</div>
   </div>
 </li>
 {% endfor %}
-</ul>
-</div>
-
-<div class="panel panel-primary">
-<div class="panel-heading">
-<strong>Social Media</strong>
-</div>
-<div style="width:99%;" >
-<a class="twitter-timeline" data-height="400" href="https://twitter.com/c_microservices">Tweets on Microservices 2019</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-</div>
-
-<div class="panel panel-primary">
-<div class="panel-heading">
-<strong>Past Events</strong>
-</div>
-<ul class="list-group">
-<li class="list-group-item">
-  <a href="http://conf-micro.services/2017/index.html">Microservices 2017</a>
-</li>
-<li class="list-group-item">
-  <a href="http://www.italianasoftware.com/mom2016_eng.html">Meeting on Microservices 2016</a>
-</li>
 </ul>
 </div>
 
