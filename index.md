@@ -8,7 +8,7 @@ The Cybersecurity Days 2019 is the first tree-day industry-aimed school in Cyber
 
 The school runs from October XX to October XX+3, 2019 (9 am--5pm) and includes state-of-the-art content to provide participants with the knowledge they can use on daily basis. As a participant, you are expected to work in information and communication technology or to have a working knowledge in that area. It is an advantage if you know something about programming and network communication.
 
-The Cybersecurity days are also a special occasion to talk to experts and enthusiasts on cybersecurity and grow your network in industry, academia, the public sector
+The Cybersecurity days are also a special occasion to talk to experts and enthusiasts on cybersecurity and grow your network in industry, academia, the public sector.
 
 Students can inquire at their own educational institution about any opportunity to attend the school.
 
