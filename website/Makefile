@@ -9,6 +9,7 @@ all: install build
 editions: $(editions)
 
 install: 
+	$(BUNDLE) config --global silence_root_warning 1
 	$(BUNDLE) install
 
 update: 
