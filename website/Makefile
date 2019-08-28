@@ -10,6 +10,7 @@ editions: $(editions)
 
 install: 
 	$(BUNDLE) config --global silence_root_warning 1
+	$(BUNDLE) config --global disable_platform_warnings true
 	$(BUNDLE) install
 
 update: 
