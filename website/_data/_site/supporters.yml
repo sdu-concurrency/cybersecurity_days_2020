@@ -1,0 +1,37 @@
+- type: Sponsor
+  tier: gold
+  name: Adesso
+  link: https://www.adesso.de
+  logo: /2019/assets/images/supporters/adesso.jpg
+- type: Sponsor
+  name: InnoQ
+  tier: gold
+  link: https://www.innoq.com
+  logo: /2019/assets/images/supporters/innoq.jpg
+- type: Sponsor
+  name: Materna
+  tier: gold
+  link: https://www.materna.de
+  logo: /2019/assets/images/supporters/materna.jpg
+- type: Sponsor
+  name: italianaSoftware
+  tier: silver
+  link: http://www.italianasoftware.com/
+  logo: /2019/assets/images/supporters/italianasoftware.gif
+- type: Sponsor
+  name: Vanderlande
+  tier: silver
+  link: https://www.vanderlande.com/
+  logo: /2019/assets/images/supporters/vanderlande.jpg
+- type: Supporter
+  name: University of Applied Sciences and Arts Dortmund
+  link: https://www.fh-dortmund.de
+  logo: /2019/assets/images/supporters/fh.jpg
+- type: Supporter
+  name: University of Southern Denmark
+  link: https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi
+  logo: /2019/assets/images/supporters/sdu.png
+- type: Media Partner
+  name: MDPI Computers
+  link: https://www.mdpi.com/journal/computers
+  logo: /2019/assets/images/supporters/mdpi-computers.png
