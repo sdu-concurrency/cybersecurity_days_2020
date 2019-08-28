@@ -1,7 +1,7 @@
 ---
 title: Attending
 layout: page
-feature_image: "/assets/images/aelling.jpg"
+feature_image: "/assets/images/lion.jpg"
 ---
 
 <ul class="nav nav-tabs nav-justified">
