@@ -30,7 +30,7 @@
       location: Room <a href="/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
 
 - day: October 23rd
-  theme: "Security: tecniques and tools"
+  theme: "Security: techniques and tools"
   color: "#aeffbf"
   events:
     - title: Security 3
