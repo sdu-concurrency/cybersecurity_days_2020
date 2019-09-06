@@ -1,13 +1,13 @@
 ---
-- day: October XXth
+- day: October 22nd
   color: "#aeb4ff"
-  theme: Security1
+  theme: "Security: concepts and organisation"
   events:
-    - title: Security1
+    - title: Security 1
       from: "9:00"
       to: "12:30"
       authors:
-        - name: Professor Professorson
+        - name: Prof. Lecturer
           title: Lecturer
       description: |
         Important concepts on security
@@ -18,26 +18,26 @@
       to: "13:30"
       non-session: true
       location: Room <a href="/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - title: Security2
+    - title: Security 2
       from: "13:30"
       to: "17:30"
       authors:
-        - name: Professor Professorson Professorson
+        - name: Prof. Lecturer
           title: Lecturer
       description: |
         Important concepts on security
       slides: /keynotes/Zimmerman.pdf
       location: Room <a href="/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
 
-- day: October YYst
-  theme: Security2
+- day: October 23rd
+  theme: "Security: tecniques and tools"
   color: "#aeffbf"
   events:
-    - title: Security3
+    - title: Security 3
       from: "9:00"
       to: "12:30"
       authors:
-        - name: Professor Professorson Professorson Professorson
+        - name: Prof. Lecturer
           title: Lecturer
       description: |
         Important concepts on security
@@ -48,11 +48,11 @@
       to: "13:30"
       non-session: true
       location: Room <a href="/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - title: Security4
+    - title: Security 4
       from: "9:00"
       to: "12:30"
       authors:
-        - name: Professor Professorson Professorson Professorson Professorson
+        - name: Prof. Lecturer
           title: Lecturer
       description: |
         Important concepts on security

@@ -53,10 +53,11 @@ avatarurl: "/assets/images/favicon.ico" # Uses avatars for favicons to get multi
 header_left: |
   <h3><a href="/"><img class="img-responsive" src="/assets/images/cybersecurity_days.png" alt=""></a></h3>
 header_right: |
-  <h3 style="text-align:right">Odense <br> Oct. 2019</h3>
+  <h3 style="text-align:right">Odense <br> 22-23 Oct. 2019</h3>
 # 8. Site navigation
 navigation_header:
   Home: /
   Attending: /attending/
   Program: /program/
+  Organisation: /organisation/
   Registration: /registration/
