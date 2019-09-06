@@ -79,13 +79,23 @@
 
 <div class="panel panel-primary">
 <div class="panel-heading">
-<strong>Sponsors & Supporters</strong>
+<strong>Supporters</strong>
 </div>
 <ul class="list-group">
 {% for supporter in site.data.supporters %}
 <li class="list-group-item">
   <div class="row">
-  <div class="col-xs-offset-3 col-xs-6"><a href="{{ supporter.link }}"><img style="max-height:100px;" class="img-responsive center-block" src="{{ supporter.logo }}" alt="{{supporter.name}}"></a></div><div class="col-sm-4 col-md-3 text-center text-muted vcenter">{% if supporter.tier %}{{supporter.tier | capitalize }} {% endif%}{{supporter.type}}</div>
+  <div class="col-xs-offset-3 col-xs-6">
+    {% if supporter.logos %}
+      {% for logo in supporter.logos %}
+          <a href="{{ logo.link }}"><img style="max-height:100px;" class="img-responsive center-block" src="{{ logo.logo }}" alt="{{ supporter.name }}"></a>
+          {% if forloop.last %}{% else %}<br>{% endif %}
+      {% endfor %}
+    {% else %}
+      <a href="{{ supporter.link }}"><img style="max-height:100px;" class="img-responsive center-block" src="{{ supporter.logo }}" alt="{{supporter.name}}"></a>
+    {% endif %}
+  </div>
+  <div class="col-sm-4 col-md-3 text-center text-muted vcenter">{% if supporter.tier %}{{supporter.tier | capitalize }} {% endif%}{{supporter.type}}</div>
   </div>
 </li>
 {% endfor %}

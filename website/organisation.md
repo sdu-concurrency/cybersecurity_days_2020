@@ -10,14 +10,6 @@ feature_image: "/assets/images/dater.jpg"
 
 <style> td{min-width:12em} td+td{padding-left:10px;}</style>
 
-### Scientific Committee
-
-<table>
-  <tbody>
-    <tr><td>Jacopo Mauro</td><td>University of Southern Denmark (DK)</td></tr>
-  </tbody>
-</table>
-
 ### Local Organisation
 <table>
   <tbody>
