@@ -1,21 +1,28 @@
 - name: Center for Cybersikkerhed - Forsvarsministeriet
+  type: Sponsor
   link: https://fe-ddis.dk/CFCS
   logo: /assets/images/supporters/fe.png
 - name: University of Southern Denmark
-  logos:
-    - link: https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi
-      logo: /assets/images/supporters/sdu.png
-    - link: https://dio.sdu.dk
-      logo: /assets/images/supporters/dio.png
+  type: Sponsor
+  link: https://www.sdu.dk/en/om_sdu/institutter_centre/imada_matematik_og_datalogi
+  logo: /assets/images/supporters/sdu.png
 - name: Aalborg University
+  type: Sponsor
   link: https://www.aau.dk/
   logo: /assets/images/supporters/aau.png
 - name: Copenhagen Business School
+  type: Sponsor
   link: https://www.cbs.dk/
   logo: /assets/images/supporters/cbs.png
 - name: Københavns Erhvervsakademi
+  type: Sponsor
   link: https://kea.dk/
   logo: /assets/images/supporters/kea.png
 - name: Technical University of Denmark
+  type: Sponsor
   link: https://www.compute.dtu.dk/
   logo: /assets/images/supporters/dtu.png
+- name: Digital Innovation Office, SDU
+  type: Supporter
+  link: https://dio.sdu.dk
+  logo: /assets/images/supporters/dio.png
