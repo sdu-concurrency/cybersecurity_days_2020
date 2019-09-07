@@ -79,7 +79,7 @@
 
 <div class="panel panel-primary">
 <div class="panel-heading">
-<strong>Supporters</strong>
+<strong>Sponsors & Supporters</strong>
 </div>
 <ul class="list-group">
 {% for supporter in site.data.supporters %}
