@@ -1,60 +1,89 @@
 ---
 - day: October 22nd
   color: "#aeb4ff"
-  theme: "Security: concepts and organisation"
+  theme: "Security: concepts and techniques"
   events:
-    - title: Security 1
+    - title: Opening
       from: "9:00"
-      to: "12:30"
+      to: "9:15"
       authors:
-        - name: Prof. Lecturer
-          title: Lecturer
-      description: |
-        Important concepts on security
-      slides: /keynotes/Zimmerman.pdf
-      location: Room <a href="/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
-    - title: Lunch
-      from: "12:30"
-      to: "13:30"
+        - name: TBD (CFCF)
+          title: Speaker
+      description: TBD
+    - title: Introduction to CyberSecurity
+      from: "9:15"
+      to: "10:15"
+      authors:
+        - name: Christian D. Jensen and Birger Andersen (DTU)
+          title: Lecturers
+      description: TBD
+    - title: Coffee break
+      from: "10:15"
+      to: "10:30"
       non-session: true
-      location: Room <a href="/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - title: Security 2
-      from: "13:30"
-      to: "17:30"
+    - title: Network security basics
+      from: "10:30"
+      to: "11:30"
       authors:
-        - name: Prof. Lecturer
+        - name: Christian D. Jensen and Birger Andersen (DTU)
+          title: Lecturers
+      description: TBD
+    - title: Lunch
+      from: "11:30"
+      to: "12:30"
+      non-session: true
+      location: SDU University Canteen
+    - title: DevSecOps
+      from: "12:30"
+      to: "14:30"
+      authors:
+        - name: Jacopo Mauro (SDU)
           title: Lecturer
-      description: |
-        Important concepts on security
-      slides: /keynotes/Zimmerman.pdf
-      location: Room <a href="/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
+      description: TBD
+    - title: Coffee break
+      from: "14:30"
+      to: "15:00"
+      non-session: true
+    - title: Network security exercises
+      from: "15:00"
+      to: "17:00"
+      authors:
+        - name: TBD (AUU)
+          title: Lecturer
+      description: TBD
+    - title: Reception
+      from: "17:30"
+      to: "19:00"
+      non-session: true
+      location: TBD
+      description: TBD
 
 - day: October 23rd
-  theme: "Security: techniques and tools"
+  theme: "Security: organisation and tools"
   color: "#aeffbf"
   events:
-    - title: Security 3
+    - title: The managerial and organizational aspect of CyberSecurity
       from: "9:00"
       to: "12:30"
       authors:
-        - name: Prof. Lecturer
-          title: Lecturer
+        - name: Xiao Xiao and Irfan Kanat (CBS)
+          title: Lecturers
       description: |
-        Important concepts on security
-      location: Room <a href="/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
-      slides: /keynotes/Zimmerman.pdf
+        Includes coffee break
     - title: Lunch
-      from: "12:30"
-      to: "13:30"
+      from: "11:30"
+      to: "13:00"
       non-session: true
-      location: Room <a href="/attending/#map-to-reach-the-conference-room-inside-the-venue">F.212</a>
-    - title: Security 4
-      from: "9:00"
-      to: "12:30"
+      location: SDU University Canteen
+    - title: Data carving in forensics
+      from: "13:00"
+      to: "15:30"
       authors:
-        - name: Prof. Lecturer
-          title: Lecturer
+        - name: Steven Albury and Daniel Ellebæk (KEA)
+          title: Lecturers
       description: |
-        Important concepts on security
-      location: Room <a href="/attending/#map-to-reach-the-conference-room-inside-the-venue">F.211</a>
-      slides: /keynotes/Zimmerman.pdf
+        Includes coffee break
+    - title: Closing
+      from: "15:30"
+      to: "16:00"
+      non-session: true

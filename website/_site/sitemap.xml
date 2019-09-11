@@ -7,6 +7,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/map_full/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/organisation/</loc>
 </url>
 <url>
@@ -17,10 +20,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/include_md.html</loc>
-<lastmod>2019-03-08T13:40:55+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/subpages/map/ms2019-city_map.pdf</loc>
 <lastmod>2019-03-08T13:40:55+01:00</lastmod>
 </url>
 </urlset>

@@ -1,6 +1,4 @@
-Microservices 2017 does not hold a block at a particular hotel.
-To help you plan your trips, here are a few accommodation possibilities in the city centre. There is a direct bus from the centre
-to the University (the venue of the conference) running every 15 minutes. The ride takes about 25 minutes.
+The organisation does not hold a block at a particular hotel. To help you plan your trips, here are a few accommodation possibilities in the city centre. There is a direct bus from the centre to the University (the venue of the conference) running every 15 minutes. The ride takes about 25 minutes.
 
 <table class="table">
 <thead>
@@ -35,7 +33,6 @@ separately.
 
 **ConferenceShare service**
 
-Looking to cut costs? Connect with other Microservices 2017 attendees to split
-conference costs. Sign up at <a href="conferenceshare.co">conferenceshare.co</a>
-to find Microservices 2017 attendees with whom you can share hotel room, taxi,
-or car rental.
+Looking to cut costs? Connect with other attendees to split conference costs.
+Sign up at <a href="conferenceshare.co">conferenceshare.co</a> to find attendees
+with whom you can share hotel room, taxi, or car rental.

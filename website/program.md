@@ -24,6 +24,9 @@ The finalised version will be published at the beginning of February.
   .presentation { margin-top: 1em; }
   .btn:focus { outline: 0 !important; }
 </style>
+
+The item in the program without a specified location take place at the [BMB Seminar Room](/attending)
+
 {% for day in site.data.program %}
 
 <div style="margin-top:30px;background-color:{{ day.color }};border-radius: 5px 5px 0px 0px;padding-left: 5px;padding-bottom: 20px;padding-top: 1px;"><h1>{{ day.day }} - {{ day.theme }}</h1></div>
@@ -102,7 +105,7 @@ The finalised version will be published at the beginning of February.
             {% endif %}
           {% endif %}
           <br>
-          Location: <strong>{{event.location}}</strong>
+          {% if event.location %} Location: <strong>{{event.location}}</strong> {% endif %}
         </td>
       </tr>
       {% endfor %}
