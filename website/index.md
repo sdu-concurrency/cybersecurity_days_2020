@@ -4,11 +4,11 @@ title: Cybersecurity Days 2019
 feature_image: "/assets/images/aelling.jpg"
 ---
 
-The Cybersecurity Days 2019 is the first two-day cybersecurity dissemination event to promote IT security in Denmark. The Cybersecurity Days serve as a place where educational institutions, industry, public companies, and students can meet, discuss about IT cybersecurity and have opportunities to informally explore future collaborations. It is a special occasion to talk to experts and enthusiasts on cybersecurity and grow your network spanning industry, academia, and the public sector.
+Edition 2019 of the Cybersecurity Days is the first two-day cybersecurity dissemination event to promote IT security in Denmark. The Cybersecurity Days serve as a place where educational institutions, industry, public companies, and students can meet, discuss about IT cybersecurity and have opportunities to informally explore future collaborations. It is a special occasion to talk to experts and enthusiasts on cybersecurity and network with professionals from industry, academia, and the public sector.
 
 The Cybersecurity Days is held as a collaboration between educational and research institutions (AAU, CBS, DTU, KEA, and SDU) and funded by the [Centre for Cyber ​​Security](https://fe-ddis.dk/cfcs/Pages/cfcs.aspx) of the [Ministry of Defence](https://fmn.dk/eng/Pages/frontpage.aspx).
 
-Edition 2019 of the Cybersecurity Days will take place from October 22nd to October 23rd, 2019 at the University of Southern Denmark, Campusvej 55, 5230 Odense M, Denmark. 
+Cybersecurity Days 2019 will take place from October 22nd to October 23rd, 2019 at the University of Southern Denmark, Campusvej 55, 5230 Odense M, Denmark. 
 
 The event will include lectures and exercises to provide the participants knowledge on cybersecurity essential to both private citizens and organisations. 
 
