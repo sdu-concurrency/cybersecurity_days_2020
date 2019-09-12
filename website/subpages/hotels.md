@@ -1,4 +1,4 @@
-The organisation does not hold a block at a particular hotel. To help you plan your trips, here are a few accommodation possibilities in the city centre. There is a direct bus from the centre to the University (the venue of the conference) running every 15 minutes. The ride takes about 25 minutes.
+The organisation does not hold a block at a particular hotel. To help you plan your trips, here are a few accommodation possibilities in the city centre.
 
 <table class="table">
 <thead>
@@ -30,9 +30,3 @@ The organisation does not hold a block at a particular hotel. To help you plan y
 You will often get <strong>better rates</strong> on Booking, Expedia or similar
 sites, especially by booking flight and accommodation together rather than
 separately.
-
-**ConferenceShare service**
-
-Looking to cut costs? Connect with other attendees to split conference costs.
-Sign up at <a href="conferenceshare.co">conferenceshare.co</a> to find attendees
-with whom you can share hotel room, taxi, or car rental.

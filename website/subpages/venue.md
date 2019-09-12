@@ -5,16 +5,16 @@
 </div>
 
 ### Directions
-Buses 41, 44 and 72 run to the University.  
+There is a direct bus (lines 41 and 44) from the centre of Odense (where the train/bus station is) to the University running every 30 minutes. The ride takes about 25 minutes.
 
-Directions from the bus stop (<a target="_blank" href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/route/destination/563cb88d423b7d0540c99fc1">click here to see an interactive map of the path</a>):
+Directions from the bus stop of the University Campus (<a target="_blank" href="https://clients.mapsindoors.com/sdu/573f26e4bc1f571b08094312/route/destination/563cb88d423b7d0540c99fc1">click here to see an interactive map of the path</a>):
 
 - walk along the parking lot in the direction of the building with circles on its facade;  
-- turn right at the first lane and walk and enter the university building at entrance J/53; 
+- turn right at the first lane and enter the university building at entrance J/53; 
 - walk all the corridor (Bogene) until it crosses the main hallway (Gydehutten);
-- turn left and continue walking until you meet the intersection with the next corridor (Krogene):
-- turn right and walk all the way to its end;
-- the BMB seminar room is the last room on the left.  (See map below, click to enlarge.)
+- turn left and continue walking until you meet the intersection with the next corridor (Krogene);
+- turn right and walk all the way to the end of the corridor;
+- the BMB seminar room is the last room on the left (see map below).
 
 If you get lost, just enter any University building: they are all connected, and there are maps on most main doors.
 
