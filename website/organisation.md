@@ -14,9 +14,11 @@ feature_image: "/assets/images/dater.jpg"
 <table>
   <tbody>
     <tr><td>Birger Andersen</td><td>Technical University of Denmark (DTU)</td></tr>
+    <tr><td>Irfan Kanat</td><td>Copenhagen Business School (CBS)</td></tr>
     <tr><td>Jesper Nordentoft</td><td>Technical University of Denmark (KEA)</td></tr>
     <tr><td>Jacopo Mauro</td><td>University of Southern Denmark (SDU)</td></tr>
     <tr><td>Majbrit Nygaard Christensen</td><td>Centre for Cyber ​​Security (CFCS)</td></tr>
+    <tr><td>Rene Rydhof Hansen</td><td>Aalborg University (AAU)</td></tr>
   </tbody>
 </table>
 
@@ -24,6 +26,7 @@ feature_image: "/assets/images/dater.jpg"
 <table>
   <tbody>
     <tr><td>Jacopo Mauro</td><td>University of Southern Denmark (SDU)</td></tr>
+    <tr><td>Peter Bækgaard Madsen</td><td>University of Southern Denmark (SDU)</td></tr>
     <tr><td>Saverio Giallorenzo</td><td>University of Southern Denmark (SDU)</td></tr>
     <tr><td>Ursula A. Lundgreen Svane</td><td>University of Southern Denmark (SDU)</td></tr>
   </tbody>

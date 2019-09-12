@@ -4,7 +4,7 @@ title: Cybersecurity Days 2019
 feature_image: "/assets/images/aelling.jpg"
 ---
 
-Cybersecurity Days 2019 is the first edition of a two-day cybersecurity dissemination event to promote IT security in Denmark; Cybersecurity Days are
+Cybersecurity Days 2019 is the first edition of a two-day cybersecurity dissemination event to promote IT security in Denmark. The event is
 funded by the [Centre for Cyber ​​Security](https://fe-ddis.dk/cfcs/Pages/cfcs.aspx) of the [Ministry of Defence](https://fmn.dk/eng/Pages/frontpage.aspx) and held as a collaboration among educational and research danish institutions (AAU, CBS, DTU, KEA, and SDU).
 
 Cybersecurity Days serve as a place where industry, public companies, students, and institutions can meet, discuss about IT cybersecurity and informally explore future collaborations. It is a special occasion to talk to experts on cybersecurity and network with professionals from industry, academia, and the public sector.
@@ -15,8 +15,6 @@ There are no strict prerequisites for the attendance; however, the event will be
 
 For the exercise sessions, participants are asked to bring their own laptop.
 
-All teaching materials will be available online (see the [program page](/program)).
-
-The participation fee is 1500 DKK and it includes: meals, coffee breaks, and a reception held after the lectures of the first day (October 22nd).
+The participation fee is 1500 DKK and it includes: meals, coffee breaks, and a reception held after the lectures of the first day (October 22nd - see the [program page](/program)).
 
 Please note, places are limited and they will be allocated on a first-come-first-served basis.
