@@ -9,7 +9,7 @@
       authors:
         - name: Jacopo Mauro and CFCF representative
           title: Speaker
-      description: TBD
+      description: 
     - title: Introduction to CyberSecurity
       from: "9:15"
       to: "10:15"
@@ -39,7 +39,8 @@
       authors:
         - name: Jacopo Mauro (SDU)
           title: Lecturer
-      description: TBD
+      description: |
+        The lecture will introduce how adopting software development practices that combine software development (Dev) and information-technology operations (Ops) leads to an increase in overall security (SEC).
     - title: Coffee break
       from: "14:30"
       to: "15:00"
