@@ -83,7 +83,6 @@
           title: Lecturers
       description: |
         Includes coffee break
-    
     - title: Closing
       from: "15:30"
       to: "16:00"
