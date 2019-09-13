@@ -10,30 +10,33 @@
         - name: Jacopo Mauro and CFCF representative
           title: Speaker
       description: 
+      location: <a href="/attending">BMB Seminar room</a>
     - title: Introduction to CyberSecurity
       from: "9:15"
       to: "10:15"
       authors:
         - name: Christian D. Jensen and Birger Andersen (DTU)
           title: Lecturers
-      description: TBD
+      location: <a href="/attending">BMB Seminar room</a>
     - title: Coffee break
       from: "10:15"
       to: "10:30"
       non-session: true
+      location: <a href="/attending">BMB Seminar room</a>
     - title: Network security basics
       from: "10:30"
       to: "11:30"
       authors:
         - name: Christian D. Jensen and Birger Andersen (DTU)
           title: Lecturers
-      description: TBD
+      location: <a href="/attending">BMB Seminar room</a>
     - title: Lunch
       from: "11:30"
       to: "12:30"
       non-session: true
-      location: SDU University Restaurant
+      location: <a href="https://www.sdu.dk/da/om_sdu/konferencefaciliteter/restaurant"> SDU University Restaurant </a>
     - title: DevSecOps
+      location: <a href="/attending">BMB Seminar room</a>
       from: "12:30"
       to: "14:30"
       authors:
@@ -44,49 +47,75 @@
     - title: Coffee break
       from: "14:30"
       to: "15:00"
+      location: <a href="/attending">BMB Seminar room</a>
       non-session: true
     - title: Network security exercises
       from: "15:00"
       to: "17:00"
+      location: <a href="/attending">BMB Seminar room</a>
       authors:
         - name: TBD (AUU)
           title: Lecturer
-      description: TBD
+      description:
     - title: Reception
       from: "17:30"
       to: "19:00"
       non-session: true
-      location: TBD
-      description: TBD
+      location: <a href="/attending">BMB Seminar room</a>
 
 - day: October 23rd
   theme: "Security: organisation and tools"
   color: "#aeffbf"
   events:
-    - title: Data carving in forensics
+    - title: Data carving in forensics (1/2)
+      description:
       from: "9:00"
-      to: "11:30"
+      to: "10:30"
       authors:
         - name: Steven Albury and Daniel Ellebæk (KEA)
           title: Lecturers
-      description: |
-        Includes coffee break
+      location: <a href="/attending">BMB Seminar room</a>
+    - title: Coffee break
+      from: "10:30"
+      to: "10:45"
+      non-session: true
+      location: <a href="/attending">BMB Seminar room</a>
+    - title: Data carving in forensics (2/2)
+      from: "10:45"
+      to: "11:30"
+      location: <a href="/attending">BMB Seminar room</a>
+      authors:
+        - name: Steven Albury and Daniel Ellebæk (KEA)
+          title: Lecturers
     - title: Lunch
       from: "11:30"
       to: "13:00"
       non-session: true
-      location: SDU University Restaurant
-    - title: The managerial and organizational aspect of CyberSecurity
+      location: <a href="https://www.sdu.dk/da/om_sdu/konferencefaciliteter/restaurant"> SDU University Restaurant </a>
+    - title: The managerial and organizational aspect of CyberSecurity (1/2)
       from: "13:00"
-      to: "15:30"
+      to: "14:00"
+      location: <a href="/attending">BMB Seminar room</a>
       authors:
         - name: Xiao Xiao and Irfan Kanat (CBS)
           title: Lecturers
       description: |
         The lecturers will present the management and organizational perspective on Cybersecurity. 
         Through lectures and a real-life case, they will discuss what lead to a cybersecurity incident, how to prepare for it, as well as the role of top management in such processes.
-        <br> (Coffee break included)
+    - title: Coffee break
+      from: "14:00"
+      to: "14:15"
+      non-session: true
+      location: <a href="/attending">BMB Seminar room</a>
+    - title: The managerial and organizational aspect of CyberSecurity (2/2)
+      from: "14:15"
+      to: "15:30"
+      location: <a href="/attending">BMB Seminar room</a>
+      authors:
+        - name: Xiao Xiao and Irfan Kanat (CBS)
+          title: Lecturers
     - title: Closing
       from: "15:30"
       to: "16:00"
+      location: <a href="/attending">BMB Seminar room</a>
       non-session: true
