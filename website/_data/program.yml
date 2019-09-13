@@ -62,11 +62,11 @@
   theme: "Security: organisation and tools"
   color: "#aeffbf"
   events:
-    - title: The managerial and organizational aspect of CyberSecurity
+    - title: Data carving in forensics
       from: "9:00"
       to: "11:30"
       authors:
-        - name: Xiao Xiao and Irfan Kanat (CBS)
+        - name: Steven Albury and Daniel Ellebæk (KEA)
           title: Lecturers
       description: |
         Includes coffee break
@@ -75,14 +75,15 @@
       to: "13:00"
       non-session: true
       location: SDU University Restaurant
-    - title: Data carving in forensics
+    - title: The managerial and organizational aspect of CyberSecurity
       from: "13:00"
       to: "15:30"
       authors:
-        - name: Steven Albury and Daniel Ellebæk (KEA)
+        - name: Xiao Xiao and Irfan Kanat (CBS)
           title: Lecturers
       description: |
         Includes coffee break
+    
     - title: Closing
       from: "15:30"
       to: "16:00"
