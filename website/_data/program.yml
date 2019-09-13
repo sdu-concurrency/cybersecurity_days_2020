@@ -82,7 +82,9 @@
         - name: Xiao Xiao and Irfan Kanat (CBS)
           title: Lecturers
       description: |
-        Includes coffee break
+        The lecturers will present the management and organizational perspective on Cybersecurity. 
+        Through lectures and a real-life case, they will discuss what lead to a cybersecurity incident, how to prepare for it, as well as the role of top management in such processes.
+        <br> (Coffee break included)
     - title: Closing
       from: "15:30"
       to: "16:00"
