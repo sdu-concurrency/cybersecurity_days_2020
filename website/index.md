@@ -17,6 +17,6 @@ There are no strict prerequisites for the attendance; however, the event will be
 
 For the exercise sessions, participants are asked to bring their own laptop.
 
-The participation fee is 800 DKK and it includes: meals, coffee breaks, and a reception held after the lectures of the first day (October 22nd - see the [program page](/program)).
+The participation fee is 800 DKK (tax excluded) and it includes: meals, coffee breaks, and a reception held after the lectures of the first day (October 22nd - see the [program page](/program)).
 
-Please note, places are limited and they will be allocated on a first-come-first-served basis.
+Please note, places are limited to 50 participants and they will be allocated on a first-come-first-served basis.
