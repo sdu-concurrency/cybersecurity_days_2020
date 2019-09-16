@@ -18,6 +18,9 @@
         - name: Christian D. Jensen and Birger Andersen (DTU)
           title: Lecturers
       location: <a href="/attending">BMB Seminar room</a>
+      description: |
+        The lecture will introduce CyberSecurity, present practical examples of failures of CyberSecurity, 
+        and look into CyberSecurity aspects in the emerging field of the Internet of Things.
     - title: Coffee break
       from: "10:15"
       to: "10:30"
@@ -30,6 +33,10 @@
         - name: Christian D. Jensen and Birger Andersen (DTU)
           title: Lecturers
       location: <a href="/attending">BMB Seminar room</a>
+      description: | 
+        The lecture will introduce computer network principles,
+        then it will present various types of network attacks, and finally
+        it will cover basic CyberSecurity concepts of computer networks.
     - title: Lunch
       from: "11:30"
       to: "12:30"
