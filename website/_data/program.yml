@@ -50,7 +50,9 @@
         - name: Jacopo Mauro (SDU)
           title: Lecturer
       description: |
-        The lecture will introduce how adopting software development practices that combine software development (Dev) and information-technology operations (Ops) leads to an increase in overall security (SEC).
+        The lecture will introduce how adopting software development practices 
+        that combine software development (Dev) and information-technology operations 
+        (Ops) leads to an increase in overall security (Sec).
     - title: Coffee break
       from: "14:30"
       to: "15:00"
@@ -63,7 +65,9 @@
       authors:
         - name: TBD (AUU)
           title: Lecturer
-      description:
+      description: | 
+        This session will get some hands-on experience with network 
+        security, by doing some exercises on the Haaukins training platform. 
     - title: Reception
       from: "17:30"
       to: "19:00"
@@ -78,6 +82,12 @@
       description:
       from: "9:00"
       to: "10:30"
+      description: |
+        The lecture will overview criminal forensics 
+        investigation basics. It will include some hands-on exploration 
+        of data artefacts ("carving") as well as placing such activity 
+        into the context of a forensic investigation, where a legal process 
+        needs to be followed.
       authors:
         - name: Steven Albury and Daniel Ellebæk (KEA)
           title: Lecturers
@@ -107,8 +117,10 @@
         - name: Xiao Xiao and Irfan Kanat (CBS)
           title: Lecturers
       description: |
-        The lecturers will present the management and organizational perspective on Cybersecurity. 
-        Through lectures and a real-life case, they will discuss what lead to a cybersecurity incident, how to prepare for it, as well as the role of top management in such processes.
+        The lecturers will present the management and organizational perspective on 
+        Cybersecurity. Through lectures and a real-life case, they will discuss 
+        what leads to a cybersecurity incident, how to prepare for it, as well as 
+        the role of top management in such processes.
     - title: Coffee break
       from: "14:00"
       to: "14:15"
