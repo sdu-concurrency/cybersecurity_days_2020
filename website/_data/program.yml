@@ -62,9 +62,6 @@
       from: "15:00"
       to: "17:00"
       location: <a href="/attending">BMB Seminar room</a>
-      authors:
-        - name: TBD (AUU)
-          title: Lecturer
       description: | 
         This session will get some hands-on experience with network 
         security, by doing some exercises on the Haaukins training platform. 
