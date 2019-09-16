@@ -16,8 +16,12 @@
 			<meta property="og:title" content="{{ collectiondata.title }}">
 			<meta name="description" content="{{ collectiondata.description }}">
 			<meta property="og:description" content="{{ collectiondata.description }}">
-		{% else %}
+			{% else %}
 			{% seo %}
+		{% endif %}
+
+		{% if site.google_verification_code %}
+		<meta name="google-site-verification" content="{{ site.google_verification_code }}" />
 		{% endif %}
 
     <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
