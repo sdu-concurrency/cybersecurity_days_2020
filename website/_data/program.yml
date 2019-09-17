@@ -11,7 +11,7 @@
           title: Speaker
       description: 
       location: <a href="/attending">BMB Seminar room</a>
-    - title: Introduction to CyberSecurity
+    - title: Introduction to cybersecurity
       from: "9:15"
       to: "10:15"
       authors:
@@ -19,8 +19,8 @@
           title: Lecturers
       location: <a href="/attending">BMB Seminar room</a>
       description: |
-        The lecture will introduce CyberSecurity, present practical examples of failures of CyberSecurity, 
-        and look into CyberSecurity aspects in the emerging field of the Internet of Things.
+        The lecture will introduce cybersecurity, present practical examples of failures of cybersecurity, 
+        and look into cybersecurity aspects in the emerging field of the Internet of Things.
     - title: Coffee break
       from: "10:15"
       to: "10:30"
@@ -36,7 +36,7 @@
       description: | 
         The lecture will introduce computer network principles,
         then it will present various types of network attacks, and finally
-        it will cover basic CyberSecurity concepts of computer networks.
+        it will cover basic cybersecurity concepts of computer networks.
     - title: Lunch
       from: "11:30"
       to: "12:30"
@@ -106,7 +106,7 @@
       to: "13:00"
       non-session: true
       location: <a href="https://www.sdu.dk/da/om_sdu/konferencefaciliteter/restaurant"> SDU University Restaurant </a>
-    - title: The managerial and organizational aspect of CyberSecurity (1/2)
+    - title: The managerial and organizational aspect of cybersecurity (1/2)
       from: "13:00"
       to: "14:00"
       location: <a href="/attending">BMB Seminar room</a>
@@ -115,7 +115,7 @@
           title: Lecturers
       description: |
         The lecturers will present the management and organizational perspective on 
-        Cybersecurity. Through lectures and a real-life case, they will discuss 
+        cybersecurity. Through lectures and a real-life case, they will discuss 
         what leads to a cybersecurity incident, how to prepare for it, as well as 
         the role of top management in such processes.
     - title: Coffee break
@@ -123,7 +123,7 @@
       to: "14:15"
       non-session: true
       location: <a href="/attending">BMB Seminar room</a>
-    - title: The managerial and organizational aspect of CyberSecurity (2/2)
+    - title: The managerial and organizational aspect of cybersecurity (2/2)
       from: "14:15"
       to: "15:30"
       location: <a href="/attending">BMB Seminar room</a>
