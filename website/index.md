@@ -1,7 +1,7 @@
 ---
 layout: home
 title: CyberSecurity Days 2019
-feature_image: "/assets/images/aelling.jpg"
+feature_image: "/assets/images/cybersecurity.jpg"
 ---
 
 CyberSecurity Days 2019 is the first edition of a two-day cybersecurity dissemination event to promote IT security in Denmark. The event is

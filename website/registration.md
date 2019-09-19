@@ -1,7 +1,7 @@
 ---
 title: Registration
 layout: page
-feature_image: "/assets/images/skal_odense.jpg"
+feature_image: "/assets/images/aelling.jpg"
 ---
 
 <div class="jumbotron">
