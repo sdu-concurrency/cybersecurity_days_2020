@@ -69,7 +69,7 @@
       from: "17:30"
       to: "19:00"
       non-session: true
-      location: <a href="/attending">BMB Seminar room</a>
+      location: <a href="https://www.sdu.dk/da/om_sdu/konferencefaciliteter/restaurant"> SDU University Restaurant </a>
 
 - day: October 23rd
   theme: "Security: organisation and tools"
