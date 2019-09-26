@@ -1,0 +1,76 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{fullpage}
+\usepackage{datatool}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage[scaled]{beramono}
+\renewcommand*\familydefault{\ttdefault} %% Only if the base font of the document is to be typewriter style
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+
+% Customize here to adapt badge size.
+% Beware that larger badges may exceed printing limits.
+\newcommand{\badgewidth}{87mm}
+\newcommand{\badgeheight}{55mm}
+\setlength{\oddsidemargin}{-15mm}
+\setlength{\fboxsep}{0mm}
+
+% Customize here for background image name & size.
+% Ideally, logo should cover the whole badge.
+% If you don't have a background image, simply declare \imgcmd empty.
+\newcommand\imgcmd{\includegraphics[width=\badgewidth,height=42mm]{background}}
+
+\DTLloaddb{data}{names.csv}
+
+\pagestyle{empty}
+\begin{document}
+
+\DTLforeach*
+{data}
+{\name=name,\surname=surname,\affiliation=affiliation}
+    {
+        \noindent\framebox[\badgewidth]{%
+        \rlap{\raisebox{-\badgeheight}{\hspace{2.5mm}\imgcmd}}
+        \begin{minipage}[t][\badgeheight]{\badgewidth}
+            \vspace{3mm}
+            \hspace{2mm}
+            \includegraphics[width=.4\textwidth]{logo}
+            \hfill
+            \includegraphics[width=.3\textwidth]{hosts}
+            \hspace{2mm}
+            \\[1.5em]
+            {
+                \bfseries \color{white}\centering
+                \fontsize{36}{42}\selectfont\textsc{\colorbox{black}{\ \strut \MakeUppercase\surname\ }}
+                \\[-1mm]
+                \fontsize{22}{26}\selectfont\textbf{\colorbox{black}{\ \strut \MakeUppercase \name\ }}
+                \\
+            \vspace{5.8mm}
+            \normalsize\selectfont\textbf{\colorbox{black}{\ \strut \affiliation\ }}
+            }
+        \end{minipage}
+        }
+        \hspace{-4mm}
+        \noindent\framebox[\badgewidth]{%
+        \rlap{\raisebox{-\badgeheight}{\hspace{2.5mm}\imgcmd}}
+        \begin{minipage}[t][\badgeheight]{\badgewidth}
+            \vspace{3mm}
+            \hspace{2mm}
+            \includegraphics[width=.4\textwidth]{logo}
+            \hfill
+            \includegraphics[width=.3\textwidth]{hosts}
+            \hspace{2mm}
+            \\[1.5em]
+            {
+                \bfseries \color{white}\centering
+                \fontsize{36}{42}\selectfont\textsc{\colorbox{black}{\ \strut \MakeUppercase\surname\ }}
+                \\[-1mm]
+                \fontsize{22}{26}\selectfont\textbf{\colorbox{black}{\ \strut \MakeUppercase \name\ }}
+                \\
+            \vspace{5.8mm}
+            \normalsize\selectfont\textbf{\colorbox{black}{\ \strut \affiliation\ }}
+            }
+        \end{minipage}
+        }
+    }
+\end{document}
