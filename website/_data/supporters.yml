@@ -26,3 +26,7 @@
   type: Supporter
   link: https://dio.sdu.dk
   logo: /assets/images/supporters/dio.png
+- name: Microservices Community
+  type: Supporter
+  link: https://microservices.community
+  logo: /assets/images/supporters/microservices_community.png
