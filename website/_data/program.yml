@@ -63,7 +63,7 @@
       to: "17:00"
       authors:
         - name: Robert Nielsen
-        - title: Lecturer
+          title: Lecturer
       location: <a href="/attending">BMB Seminar room</a>
       description: | 
         This session will get some hands-on experience with network 
