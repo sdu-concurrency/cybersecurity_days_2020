@@ -12,9 +12,6 @@ feature_image: "/assets/images/andersen_museum.jpg"
 {% if tentative %}
 Please be aware that this is a tentative version of the conference program.
 The finalised version will be published at the beginning of February.
-
-The lectures will be given either in Danish or in English; in case non-Danish
-speaking attendees are present, lectures will be given in English.
 {% endif %}
 
 <style>
@@ -28,7 +25,8 @@ speaking attendees are present, lectures will be given in English.
   .btn:focus { outline: 0 !important; }
 </style>
 
-The item in the program without a specified location take place at the [BMB Seminar Room](/attending)
+The lectures will be given either in Danish or in English; in case non-Danish
+speaking attendees are present, lectures will be given in English.
 
 {% for day in site.data.program %}
 
