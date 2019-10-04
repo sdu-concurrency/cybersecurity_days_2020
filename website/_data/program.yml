@@ -71,6 +71,11 @@
     - title: Reception
       from: "17:30"
       to: "19:00"
+      description : |
+        A social gathering for networking and exchange ideas on cybersecurity, with food and short speaches by <br>
+        • <strong>Jane Jegind</strong>, City Council of Odense Municipality <br>
+        • <strong>Poul Nielsen</strong>, Vice-Dean for Education, University of Southern Denmark <br>
+        • <strong>Thorsten Foldager Johnsen</strong>, Head of Threat Assessment, Centre for Cyber Security
       non-session: true
       location: <a href="https://www.sdu.dk/da/om_sdu/konferencefaciliteter/restaurant"> SDU University Restaurant </a>
 
