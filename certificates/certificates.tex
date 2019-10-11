@@ -1,12 +1,11 @@
 \documentclass{article}
-\usepackage[landscape,top=2cm, bottom=2cm, outer=0cm, inner=0cm]{geometry}
+\usepackage[a4paper, landscape,top=2cm, bottom=2cm, outer=0cm, inner=0cm]{geometry}
 \usepackage[pages=some]{background}
 \usepackage{calligra}
 \usepackage{anyfontsize}
 \usepackage{datatool}
 
 \DTLloaddb{data}{names.csv}
-
 
 \backgroundsetup{
 scale=1,
@@ -17,6 +16,7 @@ contents={%
   \includegraphics[width=\paperwidth,height=\paperheight]{background}
   }%
 }
+\pagestyle{empty}
 \begin{document}
 
 \DTLforeach*
