@@ -21,7 +21,7 @@ Directions from the bus stop of the University Campus (<a target="_blank" href="
 - turn right at the first lane and enter the university building at entrance J/53; 
 - walk all the corridor (Bogene) until it crosses the main hallway (Gydehutten);
 - turn left and continue walking until you meet the intersection with the next corridor (Krogene);
-- turn right and walk all the way to the end of the corridor;
+- turn left and walk all the way to the end of the corridor (you will start finding roll-ups pointing the way);
 - the BMB Seminar Room is the last room on the left (see the map at the end of the page).
 
 #### By Car
@@ -36,14 +36,13 @@ Instruction to reach the destination from Fioniavej (P West):
 
 - walk down Fioniavej until it ends into an intersection;
 - turn left and walk towards the University, until you reach entrance N36;
-- enter the door and turn right;
-- the BMB Seminar Room is the first room at the end of the corridor (see the map at the end of the page). 
+- enter the door and follow the roll-ups to the BMB Seminar Room. 
 
 #### Map
 
 <p>
 <div class="center-block">
-  <a href="/map_full" target="_blank"><img src="/assets/images/map.jpg" alt=""></a>
+  <a href="/map_full" target="_blank"><img src="/assets/images/map.png" alt=""></a>
   <div class="text-center">Click on the map to see it in full resolution.</div>
 </div>
 </p> 
