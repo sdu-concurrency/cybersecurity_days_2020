@@ -1,6 +1,6 @@
 - summary: Registration closes
   id: registration_closes
-  expired: false
+  expired: true
   entries: 
     - date: 2019-10-15
       zone:
