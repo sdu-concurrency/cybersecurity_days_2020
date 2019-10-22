@@ -37,8 +37,10 @@ feature_image: "/assets/images/dater.jpg"
   <tbody>
     <tr><td>Birger Andersen</td><td>Technical University of Denmark (DTU)</td></tr>
     <tr><td>Daniel Ellebæk</td><td>Copenhagen School of Design and Technology (KEA)</td></tr>
+    <tr><td>Gustav Soelberg</td><td>Aalborg University (AAU)</td></tr>
     <tr><td>Irfan Kanat</td><td>Copenhagen Business School (CBS)</td></tr>
     <tr><td>Jacopo Mauro</td><td>University of Southern Denmark (SDU)</td></tr>
+    <tr><td>Robert Nielsen</td><td>Aalborg University (AAU)</td></tr>
     <tr><td>Steven Albury</td><td>Copenhagen School of Design and Technology (KEA)</td></tr>
     <tr><td>Xiao Xiao</td><td>Copenhagen Business School (CBS)</td></tr>
   </tbody>
