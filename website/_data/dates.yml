@@ -9,7 +9,7 @@
 
 - summary: Cybersecurity Days
   id: cybersecurity school
-  expired: false
+  expired: true
   entries:
     - from: 2019-10-22
       to: 2019-10-23
