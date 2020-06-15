@@ -12,4 +12,4 @@ feature_image: "/assets/images/SDUFacade.jpg"
   <input type="submit" value="Send">
 </form>
 
-By submitting the form contained in this page, you consent to let the organisation collect, store, and use as described in the procedure <a href="/gdpr_contact" target="_blank">"CyberSecurity Days 2019 Contact form"</a>. You can revoke the consent at any given time without giving any reason. Moreover, you can claim information as to the stored data and require correction, deletion, and inhibition of your personal data.
+By submitting the form contained in this page, you consent to let the organisation collect, store, and use as described in the procedure <a href="/gdpr_contact" target="_blank">"CyberSecurity Days 2020 Contact form"</a>. You can revoke the consent at any given time without giving any reason. Moreover, you can claim information as to the stored data and require correction, deletion, and inhibition of your personal data.

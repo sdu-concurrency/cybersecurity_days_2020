@@ -5,7 +5,7 @@ feature_image: "/assets/images/cybersecurity.jpg"
 ---
 
 CyberSecurity Days 2020 is the second edition of a two-day cybersecurity seminar to promote IT security in Denmark. The event is
-funded by the [Centre for Cybersecurity](https://fe-ddis.dk/cfcs/Pages/cfcs.aspx) of the [Ministry of Defence](https://fmn.dk/eng/Pages/frontpage.aspx) and held as a collaboration among danish educational and research  institutions (AAU, CBS, DTU, KEA, and SDU).
+funded by the [Centre for Cybersecurity](https://fe-ddis.dk/cfcs/Pages/cfcs.aspx) of the [Ministry of Defence](https://fmn.dk/eng/Pages/frontpage.aspx) and held as a collaboration among danish educational and research  institutions (AAU, AU, CBS, DTU, ITU, KEA, and SDU).
 
 The CyberSecurity Days are designed with the primary goal to provide participants with cutting-edge, comprehensive knowledge on the main issues and best practices related to cybersecurity; useful to both private citizens and organisations. Through active lectures and practical exercises, the participants will gain and develop the necessary knowledge and skills to understand the concepts and the technologies for achieving security in IT systems---examples include threat analysis, avoidance, and mitigation (both at the technical and business level), as well as data security management (authenticity, confidentiality, integrity, privacy, etc.).
 
@@ -18,7 +18,7 @@ There are no strict prerequisites for the attendance; however, the seminar will 
 
 For the exercise sessions, participants are asked to bring their own laptop.
 
-The participation fee is 800 DKK (tax excluded) and it includes: meals, coffee breaks, and a reception held after the lectures of the first day (October 22nd - see the [program page](/program)).
+The participation fee is 1000 DKK (tax excluded) and it includes meals and coffee breaks.
 
 Please note, places are limited to 50 participants and they will be allocated on a first-come-first-served basis.
 
