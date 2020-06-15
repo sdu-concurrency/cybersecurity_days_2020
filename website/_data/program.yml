@@ -1,145 +1,134 @@
 ---
-- day: October 22nd
+- day: October 29st
   color: "#aeb4ff"
   theme: "Security: concepts and techniques"
   events:
-    - title: Opening
-      from: "9:00"
-      to: "9:15"
+    - title: Registration & coffee
+      from: "08:30"
+      to: "09:00"
+      non-session: true
+      location:
+    - title: Opening (Kommune, SDU, CFCS)
+      from: "09:00"
+      to: "09:30"
       authors:
-        - name: Jacopo Mauro (SDU) and Mille Østerlund (CFCS)
-          title: Speakers
+        - name: 
+          title: 
       description: 
-      location: <a href="/attending">BMB Seminar room</a>
-    - title: Introduction to cybersecurity
-      from: "9:15"
-      to: "10:15"
-      authors:
-        - name: Birger Andersen (DTU)
-          title: Lecturers
-      location: <a href="/attending">BMB Seminar room</a>
-      description: |
-        The lecture will introduce cybersecurity, present practical examples of failures of cybersecurity, 
-        and look into cybersecurity aspects in the emerging field of the Internet of Things.
-    - title: Coffee break
-      from: "10:15"
+      location: 
+    - title: TBD (invited talk)
+      from: "09:30"
       to: "10:30"
-      non-session: true
-      location: <a href="/attending">BMB Seminar room</a>
-    - title: Network security basics
-      from: "10:30"
-      to: "11:30"
       authors:
-        - name: Birger Andersen (DTU)
-          title: Lecturer
-      location: <a href="/attending">BMB Seminar room</a>
-      description: | 
-        The lecture will introduce computer network principles,
-        then it will present various types of network attacks, and finally
-        it will cover basic cybersecurity concepts of computer networks.
-    - title: Lunch
-      from: "11:30"
-      to: "12:30"
-      non-session: true
-      location: <a href="https://www.sdu.dk/da/om_sdu/konferencefaciliteter/restaurant"> SDU University Restaurant </a>
-    - title: DevSecOps
-      location: <a href="/attending">BMB Seminar room</a>
-      from: "12:30"
-      to: "14:30"
-      authors:
-        - name: Jacopo Mauro (SDU)
-          title: Lecturer
-      description: |
-        The lecture will provide insights on how adopting software development practices 
-        that combine software development (Dev) and information-technology operations 
-        (Ops) leads to an increase in overall security (Sec).
+        - name: (CFCS)
+          title: 
+      location: 
+      description: 
     - title: Coffee break
-      from: "14:30"
-      to: "15:00"
-      location: <a href="/attending">BMB Seminar room</a>
+      from: "10:30"
+      to: "10:50"
       non-session: true
-    - title: Network security exercises
-      from: "15:00"
-      to: "17:00"
+      location:
+    - title: Blockchain Technology
+      from: "10:50"
+      to: "11:50"
       authors:
-        - name: Robert Nielsen and Gustav Soelberg (AAU)
+        - name: Diego Aranha (AU)
           title: Lecturer
-      location: <a href="/attending">BMB Seminar room</a>
-      description: | 
-        This session will get some hands-on experience with network 
-        security, by doing some exercises on the Haaukins training platform. 
-    - title: Reception
-      from: "17:30"
-      to: "19:00"
-      description : |
-        A social gathering for networking and exchange ideas on cybersecurity, with food and short speaches by: <br>
-        • <strong>Jane Jegind</strong>, City Council of Odense Municipality <br>
-        • <strong>Poul Nielsen</strong>, Vice-Dean for Education, University of Southern Denmark <br>
-        • <strong>Thorsten Foldager Johnsen</strong>, Head of Threat Assessment, Centre for Cyber Security
+      location: TBA
+      description:
+    - title: Lunch
+      from: "11:50"
+      to: "13:15"
       non-session: true
-      location: <a href="https://www.sdu.dk/da/om_sdu/konferencefaciliteter/restaurant"> SDU University Restaurant </a>
+      location: 
+    - title: TBD (talk)
+      location: TBA
+      from: "13:15"
+      to: "14:15"
+      authors:
+        - name: (ITU)
+          title: Lecturer
+      description: 
+    - title: Short break
+      from: "14:15"
+      to: "14:20"
+      location: 
+      non-session: true
+    - title: TBD (talk)
+      from: "14:20"
+      to: "15:20"
+      authors:
+        - name: (KEA)
+          title: Lecturer
+      location:
+      description: 
+    - title: Coffee break
+      from: "15:20"
+      to: "15:40"
+      location:
+      non-session: true
+    - title: Secure Application Development with Crypto devices 
+      from: "15:40"
+      to: "16:40"
+      authors:
+        - name: Tomasz Blaszczyk (DTU)
+          title: Lecturer
+      location: TBA
+      description: 
 
-- day: October 23rd
+- day: October 30st
   theme: "Security: organisation and tools"
   color: "#aeffbf"
   events:
-    - title: Data carving in forensics (1/2)
+    - title: Registration & coffee
+      from: "08:45"
+      to: "09:00"
+      non-session: true
+      location:
+    - title: TBD (invited talk)
       description:
       from: "9:00"
-      to: "10:30"
-      description: |
-        The lecture will overview criminal forensics 
-        investigation basics. It will include some hands-on exploration 
-        of data artefacts ("carving") as well as placing such activity 
-        into the context of a forensic investigation, where a legal process 
-        needs to be followed.
+      to: "10:00"
+      description: 
       authors:
-        - name: Steven Albury and Daniel Ellebæk (KEA)
-          title: Lecturers
-      location: <a href="/attending">BMB Seminar room</a>
+        - name: 
+          title: 
+      location: 
     - title: Coffee break
-      from: "10:30"
-      to: "10:45"
+      from: "10:00"
+      to: "10:30"
       non-session: true
-      location: <a href="/attending">BMB Seminar room</a>
-    - title: Data carving in forensics (2/2)
-      from: "10:45"
+      location:
+    - title: Cyber Security from Management Perspective
+      from: "10:30"
       to: "11:30"
-      location: <a href="/attending">BMB Seminar room</a>
+      location: 
       authors:
-        - name: Steven Albury and Daniel Ellebæk (KEA)
+        - name: Xiao Xiao and Irfan Kanat (CBS)
           title: Lecturers
     - title: Lunch
       from: "11:30"
       to: "13:00"
       non-session: true
-      location: <a href="https://www.sdu.dk/da/om_sdu/konferencefaciliteter/restaurant"> SDU University Restaurant </a>
-    - title: The managerial and organizational aspect of cybersecurity (1/2)
+      location:
+    - title: TBD (talk)
       from: "13:00"
       to: "14:00"
-      location: <a href="/attending">BMB Seminar room</a>
+      location:
       authors:
-        - name: Xiao Xiao and Irfan Kanat (CBS)
-          title: Lecturers
-      description: |
-        The lecturers will present the management and organizational perspective on 
-        cybersecurity. Through lectures and a real-life case, they will discuss 
-        what leads to a cybersecurity incident, how to prepare for it, as well as 
-        the role of top management in such processes.
-    - title: Coffee break
+        - name: Marco Peressotti (SDU)
+          title: Lecturer
+      description:
+    - title: Capture the flag competition
       from: "14:00"
-      to: "14:15"
-      non-session: true
-      location: <a href="/attending">BMB Seminar room</a>
-    - title: The managerial and organizational aspect of cybersecurity (2/2)
-      from: "14:15"
-      to: "15:30"
-      location: <a href="/attending">BMB Seminar room</a>
+      to: "15:00"
+      location:
       authors:
-        - name: Xiao Xiao and Irfan Kanat (CBS)
+        - name: Emmanouil Vasilomanolakis (AUU)
           title: Lecturers
-    - title: Closing
-      from: "15:30"
-      to: "16:00"
-      location: <a href="/attending">BMB Seminar room</a>
+    - title: Closing & drinks
+      from: "15:00"
+      to: "15:30"
+      location: 
       non-session: true

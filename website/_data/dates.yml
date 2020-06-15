@@ -1,11 +1,11 @@
 - summary: Registration closes
   id: registration_closes
   expired: false
-#  entries: 
-#    - date: 2020-10-20
-#      zone:
-#        tzid: Europe/Copenhagen
-#        label: CET (UTC+1)
+  entries: 
+    - date: 2020-09-15
+      zone:
+        tzid: Europe/Copenhagen
+        label: CET (UTC+1)
 
 - summary: Cybersecurity Days
   id: cybersecurity school
