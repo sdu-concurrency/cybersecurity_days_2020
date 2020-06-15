@@ -92,6 +92,16 @@
 </ul>
 </div>
 
+<div class="panel panel-primary">
+<div class="panel-heading">
+<strong>Past Editions</strong>
+</div>
+<ul class="list-group">
+<li class="list-group-item">
+  <a href="https://cyberdays2019.sdu.dk/">CyberSecurity Days 2019</a>
+</li>
+</ul>
+</div>
 
 <style>
   .microservices_community_event {

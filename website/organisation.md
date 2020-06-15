@@ -10,6 +10,7 @@ feature_image: "/assets/images/dater.jpg"
 
 <style> td{min-width:12em} td+td{padding-left:10px;}</style>
 
+{%- comment -%}
 ### General Organisation
 <table>
   <tbody>
@@ -21,17 +22,18 @@ feature_image: "/assets/images/dater.jpg"
     <tr><td>Rene Rydhof Hansen</td><td>Aalborg University (AAU)</td></tr>
   </tbody>
 </table>
+{%- endcomment -%}
 
 ### Local Organisation
 <table>
   <tbody>
     <tr><td>Jacopo Mauro</td><td>University of Southern Denmark (SDU)</td></tr>
-    <tr><td>Peter Bækgaard Madsen</td><td>University of Southern Denmark (SDU)</td></tr>
-    <tr><td>Saverio Giallorenzo</td><td>University of Southern Denmark (SDU)</td></tr>
     <tr><td>Ursula A. Lundgreen Svane</td><td>University of Southern Denmark (SDU)</td></tr>
+    <tr><td>Marco Peressotti</td><td>University of Southern Denmark (SDU)</td></tr>
   </tbody>
 </table>
 
+{%- comment -%}
 ### Lecturers
 <table>
   <tbody>
@@ -45,3 +47,4 @@ feature_image: "/assets/images/dater.jpg"
     <tr><td>Xiao Xiao</td><td>Copenhagen Business School (CBS)</td></tr>
   </tbody>
 </table>
+{%- endcomment -%}

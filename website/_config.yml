@@ -44,23 +44,23 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Cybersecurity Days 2019" # Site name or title, also used in jekyll-seo-tag
+title: "Cybersecurity Days 2020" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/images/cybersecurity_days.svg" # Site logo, also used in jekyll-seo-tag
-description: "Cybersecurity Days 2019" # Site description and default description, also used in jekyll-seo-tag
+description: "Cybersecurity Days 2020" # Site description and default description, also used in jekyll-seo-tag
 baseurl: "" # Site url, also used in jekyll-seo-tag
-email: "cyberdays2019@sdu.dk"
+email: "cyberdays2020@sdu.dk"
 google_analytics_code: "UA-148070469-1"
 google_verification_code: "rBEQWY8MvADXuhgoMQVy7Emg75i1Ew_96MFlF2TzmBM"
 avatarurl: "/assets/images/favicon.ico" # Uses avatars for favicons to get multiple sites, eg Gravatar, Twitter, GitHub
 header_left: |
   <h3><a href="/"><img class="img-responsive" style="max-height:2em;" src="/assets/images/cybersecurity_days.png" alt=""></a></h3>
 header_right: |
-  <h3 style="margin-left:auto; text-align:right">Odense<br>22-23 Oct. 2019</h3>
+  <h3 style="margin-left:auto; text-align:right">Odense<br>29-30 Oct. 2020</h3>
 # 8. Site navigation
 navigation_header:
   Home: /
-  Attending: /attending/
-  Program: /program/
+#  Attending: /attending/
+#  Program: /program/
   Organisation: /organisation/
-  Registration: /registration/
+#  Registration: /registration/
   Contact: /contact/
