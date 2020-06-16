@@ -30,6 +30,10 @@
   type: Sponsor
   link: https://www.compute.dtu.dk/
   logo: /assets/images/supporters/dtu.png
+- name: Danish Hub for Cybersecurity
+  type: Supporter
+  link: https://cyberhub.dk/
+  logo: /assets/images/supporters/cyberhub.png
 - name: Digital Innovation Office, SDU
   type: Supporter
   link: https://dio.sdu.dk
