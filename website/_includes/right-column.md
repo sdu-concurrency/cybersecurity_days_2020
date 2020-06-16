@@ -111,6 +111,7 @@
   }
 </style>
 
+{%- comment -%}
 <div class="panel panel-primary">
   <div class="panel-heading">
   <strong>Microservices Community Events</strong>
@@ -157,6 +158,8 @@ $( document ).ready( () => {
     dataType: "jsonp"
   })
 })
+{%- endcomment -%}
+
 
 <script>
 $(document).ready(function(){$('[data-toggle="tooltip"]').tooltip();});
