@@ -103,6 +103,7 @@
 </ul>
 </div>
 
+<!--
 <style>
   .microservices_community_event {
     line-height: 1.05em;
@@ -164,3 +165,5 @@ $( document ).ready( () => {
 <script>
 $(document).ready(function(){$('[data-toggle="tooltip"]').tooltip();});
 </script>
+
+-->
