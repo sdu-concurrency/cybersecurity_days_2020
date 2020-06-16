@@ -53,7 +53,7 @@ speaking attendees are present, lectures will be given in English.
           {% endif %}
           {% if event.slides %}
             <br>
-            <a target="_blank" style="color:white" href="/2019/slides/{{event.slides}}"><label class="btn btn-xs btn-success">
+            <a target="_blank" style="color:white" href="/slides/{{event.slides}}"><label class="btn btn-xs btn-success">
             <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
             <br>
           {% endif %}
@@ -87,7 +87,7 @@ speaking attendees are present, lectures will be given in English.
               <label class="abstract_btn btn btn-xs btn-info">
                 Abstract</label>
               {% if paper.slides %}
-              <a target="_blank" style="color:white" href="/2019/slides/papers/{{paper.slides}}">
+              <a target="_blank" style="color:white" href="/slides/papers/{{paper.slides}}">
                 <label class="btn btn-xs btn-success"> <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
               {% endif %}
               <div style="display:none;" class="abstract">

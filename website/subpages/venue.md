@@ -1,6 +1,6 @@
 <div class="row">
 <div class="col-xs-8 col-xs-offset-2">
-<h2 markdown="1">CyberSecurity Days 2019 will take place at the Odense Campus of the [University of Southern Denmark](http://www.sdu.dk/en/), at the BMB seminar room.</h2>
+<h2 markdown="1">CyberSecurity Days 2020 will take place at the Odense Campus of the [University of Southern Denmark](http://www.sdu.dk/en/), at the BMB seminar room.</h2>
 </div>
 </div>
 

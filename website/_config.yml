@@ -47,6 +47,7 @@ encoding: utf-8 # Make sure the encoding is right
 title: "Cybersecurity Days 2020" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/images/cybersecurity_days.svg" # Site logo, also used in jekyll-seo-tag
 description: "Cybersecurity Days 2020" # Site description and default description, also used in jekyll-seo-tag
+url: https://cyberdays2020.sdu.dk/
 baseurl: "" # Site url, also used in jekyll-seo-tag
 email: "cyberdays2020@sdu.dk"
 google_analytics_code: "UA-148070469-1"

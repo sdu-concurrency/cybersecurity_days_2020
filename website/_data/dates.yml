@@ -11,8 +11,8 @@
   id: cybersecurity school
   expired: true
   entries:
-    - from: 2019-10-29
-      to: 2019-10-30
+    - from: 2020-10-29
+      to: 2020-10-30
       zone:
         tzid: Europe/Copenhagen
         label: CET (UTC+1)
