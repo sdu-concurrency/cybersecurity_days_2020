@@ -10,10 +10,18 @@
   type: Sponsor
   link: https://www.aau.dk/
   logo: /assets/images/supporters/aau.png
+- name: Aarhus University
+  type: Sponsor
+  link: https://international.au.dk/
+  logo: /assets/images/supporters/au.png
 - name: Copenhagen Business School
   type: Sponsor
   link: https://www.cbs.dk/
   logo: /assets/images/supporters/cbs.png
+- name: IT University of Copenhagen
+  type: Sponsor
+  link: https://en.itu.dk/
+  logo: /assets/images/supporters/itu.png
 - name: Københavns Erhvervsakademi
   type: Sponsor
   link: https://kea.dk/
@@ -30,3 +38,6 @@
   type: Supporter
   link: https://microservices.community
   logo: /assets/images/supporters/microservices_community.png
+  
+  
+
