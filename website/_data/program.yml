@@ -8,7 +8,7 @@
       to: "09:00"
       non-session: true
       location:
-    - title: Opening (Kommune, SDU, CFCS)
+    - title: Opening (SDU, CFCS)
       from: "09:00"
       to: "09:30"
       authors:
@@ -35,19 +35,19 @@
       authors:
         - name: Diego Aranha (AU)
           title: Lecturer
-      location: TBA
+      location:
       description:
     - title: Lunch
       from: "11:50"
       to: "13:15"
       non-session: true
       location: 
-    - title: TBD (talk)
-      location: TBA
+    - title: Computing on Encrypted Data for Fun and Profit
+      location:
       from: "13:15"
       to: "14:15"
       authors:
-        - name: (ITU)
+        - name: Bernardo David (ITU)
           title: Lecturer
       description: 
     - title: Short break
@@ -55,11 +55,11 @@
       to: "14:20"
       location: 
       non-session: true
-    - title: TBD (talk)
+    - title: Security in e-voting
       from: "14:20"
       to: "15:20"
       authors:
-        - name: (KEA)
+        - name: Lorena Ronquillo Moreno (KEA)
           title: Lecturer
       location:
       description: 
@@ -68,13 +68,13 @@
       to: "15:40"
       location:
       non-session: true
-    - title: Secure Application Development with Crypto devices 
+    - title: Secure Application Development with Crypto Devices 
       from: "15:40"
       to: "16:40"
       authors:
         - name: Tomasz Blaszczyk (DTU)
           title: Lecturer
-      location: TBA
+      location:
       description: 
 
 - day: October 30st
@@ -112,7 +112,7 @@
       to: "13:00"
       non-session: true
       location:
-    - title: TBD (talk)
+    - title: Formal Methods for Cyber Security
       from: "13:00"
       to: "14:00"
       location:
@@ -120,7 +120,7 @@
         - name: Marco Peressotti (SDU)
           title: Lecturer
       description:
-    - title: Capture the flag competition
+    - title: Capture the Flag Competition
       from: "14:00"
       to: "15:00"
       location:
