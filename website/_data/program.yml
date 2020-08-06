@@ -1,27 +1,27 @@
 ---
 - day: October 29st
   color: "#aeb4ff"
-  theme: "Security: concepts and techniques"
+  theme: "First day"
   events:
     - title: Registration & coffee
       from: "08:30"
       to: "09:00"
       non-session: true
       location:
-    - title: Opening (SDU, CFCS)
+    - title: Opening
       from: "09:00"
       to: "09:30"
       authors:
-        - name: 
-          title: 
+        - name:
+          title:
       description: 
       location: 
-    - title: Status of Security Threads in Denmark
+    - title: Cybersecurity Threats in Denmark
       from: "09:30"
       to: "10:30"
       authors:
-        - name: CFCS
-          title: 
+        - name: Centre for Cybersecurity Representative
+          title: Speaker
       location: 
       description: 
     - title: Coffee break
@@ -78,7 +78,7 @@
       description: 
 
 - day: October 30st
-  theme: "Security: organisation and tools"
+  theme: "Second Day"
   color: "#aeffbf"
   events:
     - title: Registration & coffee
@@ -100,7 +100,7 @@
       to: "10:30"
       non-session: true
       location:
-    - title: Cyber Security from Management Perspective
+    - title: Cybersecurity from Management Perspective
       from: "10:30"
       to: "11:30"
       location: 
@@ -112,7 +112,7 @@
       to: "13:00"
       non-session: true
       location:
-    - title: Formal Methods for Cyber Security
+    - title: Formal Methods for Cybersecurity
       from: "13:00"
       to: "14:00"
       location:
