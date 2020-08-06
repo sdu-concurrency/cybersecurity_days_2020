@@ -86,14 +86,14 @@
       to: "09:00"
       non-session: true
       location:
-    - title: TBD (invited talk)
+    - title: Cyber Security in Danish companies
       description:
       from: "9:00"
       to: "10:00"
       description: 
       authors:
-        - name: 
-          title: 
+        - name: TBA
+          title: Speaker
       location: 
     - title: Coffee break
       from: "10:00"
