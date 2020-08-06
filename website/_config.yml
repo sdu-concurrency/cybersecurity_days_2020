@@ -61,7 +61,7 @@ header_right: |
 navigation_header:
   Home: /
 #  Attending: /attending/
-#  Program: /program/
+  Program: /program/
   Organisation: /organisation/
 #  Registration: /registration/
   Contact: /contact/
