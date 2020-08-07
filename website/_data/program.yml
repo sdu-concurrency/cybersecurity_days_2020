@@ -20,10 +20,10 @@
       from: "09:30"
       to: "10:30"
       authors:
-        - name: Centre for Cybersecurity Representative
-          title: Speaker
+        - name: TBA
+          title: Centre for Cybersecurity Representative
       location: 
-      description: 
+      description: "Invited talk presenting the Cybersecurity Threats faced today by Danish Companies"
     - title: Coffee break
       from: "10:30"
       to: "10:50"
@@ -86,14 +86,14 @@
       to: "09:00"
       non-session: true
       location:
-    - title: Cyber Security in Danish companies
+    - title: They caught the hacker
       description:
       from: "9:00"
       to: "10:00"
-      description: 
+      description: "Invited talk where Gul og Gratis (Jysk Fynske Medier) presents its experience with a hacker attack happened in 2019"
       authors:
-        - name: TBA
-          title: Speaker
+        - name: Kamilla Harritsø
+          title: Chief Strategy Officer at Gul og Gratis
       location: 
     - title: Coffee break
       from: "10:00"
@@ -126,7 +126,7 @@
       location:
       authors:
         - name: Emmanouil Vasilomanolakis (AUU)
-          title: Lecturers
+          title: Lecturer
     - title: Closing & drinks
       from: "15:00"
       to: "15:30"
