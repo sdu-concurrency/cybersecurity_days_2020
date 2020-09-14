@@ -79,6 +79,19 @@
 
 <div class="panel panel-primary">
 <div class="panel-heading">
+<strong>Registration</strong>
+</div>
+<ul class="list-group">
+<li class="list-group-item">
+  <p class="text-center">
+    <a href="https://www.conferencemanager.dk/cyberdays2020/signup"><button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Sign up!</button></a>
+  </p>
+</li>
+</ul>
+</div>
+
+<div class="panel panel-primary">
+<div class="panel-heading">
 <strong>Sponsors & Supporters</strong>
 </div>
 <ul class="list-group">

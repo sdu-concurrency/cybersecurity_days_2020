@@ -9,7 +9,7 @@ feature_image: "/assets/images/aelling.jpg"
   <p>Click on the button below to open the registration page and follow the step to sign up for CyberSecurity Days 2020.</p>
 <div markdown="1" class="text-justify">
 <p style="margin:2em;" class="text-center">
-    <a target="_blank" href="https://www.conferencemanager.dk/cyberdays2020/signup"><button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Register</button></a>
+    <a target="_blank" href="https://www.conferencemanager.dk/cyberdays2020/signup"><button style="padding:1em;" type="button" class="btn btn-primary btn-lg">Sign up!</button></a>
 </p>
 <div class="clearfix"></div>
 
