@@ -1,7 +1,6 @@
 ---
 layout: home
 title: CyberSecurity Days 2020
-feature_image: "/assets/images/cybersecurity-2.png"
 ---
 
 CyberSecurity Days 2020 is the second edition of a two-day cybersecurity seminar to promote IT security in Denmark. The event is

@@ -1,7 +1,7 @@
 ---
 title: Organising Committee
 layout: page
-feature_image: "/assets/images/dater.jpg"
+#feature_image: "/assets/images/dater.jpg"
 ---
 
 <div class="container"></div>

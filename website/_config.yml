@@ -32,15 +32,8 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: page # Default layout
-      image: "/assets/placeholder-social.png" # Default image for sharing
-  -
-    scope:
-      path: ""
-      type: posts
-    values:
-      layout: post # Default layout
-      image: "/assets/placeholder-social.png" # Default image for sharing
+      layout: page # Default layout      
+      feature_image: "/assets/images/cybersecurity-4.png"
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right

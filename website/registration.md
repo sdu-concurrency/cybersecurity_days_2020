@@ -1,7 +1,7 @@
 ---
 title: Registration
 layout: page
-feature_image: "/assets/images/aelling.jpg"
+#feature_image: "/assets/images/aelling.jpg"
 ---
 
 <div class="jumbotron">

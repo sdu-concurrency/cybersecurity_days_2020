@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: page
-feature_image: "/assets/images/SDUFacade.jpg"
+#feature_image: "/assets/images/SDUFacade.jpg"
 ---
 
 <form action="https://formspree.io/cybersecuritydays@sdu.dk" method="POST">

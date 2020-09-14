@@ -1,7 +1,7 @@
 ---
 title: Program
 layout: page
-feature_image: "/assets/images/andersen_museum.jpg"
+#feature_image: "/assets/images/andersen_museum.jpg"
 ---
 
 {% assign tentative = false %}
