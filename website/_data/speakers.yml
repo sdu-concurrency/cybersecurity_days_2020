@@ -18,7 +18,7 @@
 - name: "Bernardo David"
   affiliation: "IT University of Copenhagen"
   link: "http://www.bmdavid.com/"
-  picture: "bdavid.jpg"
+  picture: "bmdavid.jpg"
   bio: |
     Bernardo David is an Associate Professor at the IT University of Copenhagen, working on cryptographic protocols for multiparty computation and blockchain applications with the support of Concordium Foundation, DFF and Protocol Labs grants. He holds a Ph.D. in Computer Science from Aarhus University and was previously an Assistant Professor at the Tokyo Institute of Technology, where his work was supported by a JSPS grant. Bernardo’s research has been published as over 30 articles in scientific journals and conferences. Among his main contributions is the first provably secure protocol for proof-of-stake blockchains. Besides academic activities, he has been a consultant for a number of industry projects on blockchains and information security, currently serving as scientific advisor to Concordium.
   title: "Computing on Encrypted Data for Fun and Profit"
@@ -40,10 +40,11 @@
   title: "Cybersecurity from Management Perspective"
 
 - name: "Lorena Ronquillo Moreno"
-  affiliation: "KEA - Københavns Erhvervsakademi"
+  affiliation: "Copenhagen School of Design and Technology"
 #  link: ""
   picture: "lmoreno.jpg"
-#  bio:
+  bio: |
+    Lorena Ronquillo is a lecturer at Copenhagen School of Design and Technology (KEA) in Denmark, where she has been involved in creating, developing and teaching in the first professional bachelor in IT Security of Denmark. She was previously a postdoc at the IT University of Copenhagen, doing research on electronic elections at the DemTech research project. She holds a Ph.D degree in Computer Science from the Autonomous University of Barcelona (Spain) and has worked as a visiting PhD student at the University College of Dublin (Ireland). Her research interests have varied over the years from combinatorics, coding theory and data-hiding to applied cryptography.
   title: "Security in e-voting"
   
 - name: "Marco Peressotti"
