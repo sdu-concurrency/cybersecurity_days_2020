@@ -53,7 +53,7 @@ header_right: |
 # 8. Site navigation
 navigation_header:
   Home: /
-#  Attending: /attending/
+  Speakers: /speakers/
   Program: /program/
   Registration: /registration/
   Organisation: /organisation/
