@@ -26,9 +26,12 @@
 - name: "Mark A. Fiedel"
   affiliation: "Center for Cybersikkerhed"
 # link: ""
-# picture: ""
+  picture: "centerforcybersikkerhed.jpg"
   bio: |
-    Mark A. Fiedel is Head of Threat Assessment at CFCS.
+    Mark Fiedel is Head of the Center for Cyber Security Analysis. He has worked with IT security, cyber threats and security for most of his professional career.
+
+    Marks department is responsible for overseeing potential cyber threats that pose a threat to Denmark and Danish interests. Among other things, the department is responsible for the preparation of the ongoing threat assessments.
+
   title: "Cybersecurity Threats in Denmark"
 
 - name: "Irfan Kanat"

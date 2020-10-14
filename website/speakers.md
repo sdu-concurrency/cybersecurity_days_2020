@@ -25,6 +25,7 @@ layout: page
 <br>
 <img class="img-thumbnail" style="margin:8px;max-width:120px;height:auto" align="left" src="{{ 'assets/images/speakers/' | append: speaker.picture | relative_url }}">
 {% endif %}
+<div class="clearfix"></div>
 </div>
 {% endfor %}
 
