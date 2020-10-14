@@ -30,8 +30,9 @@ To reach Room O100 from the P East, please follow the instructions above, as the
 Instruction to reach the destination from Fioniavej (P West):
 
 - walk down Fioniavej until middle intersection towards Campusvej;
-- turn and walk along Campusvej until you reach entrance S (Campusvej 32);
-- enter the door go ahead following the roll-ups to the Room O100. 
+- follow the walkway towards the university until you reach entrance R (Campusvej 30);
+- walk all the corridor until it crosses the main hallway (Gydehutten);
+- turn left and continue walking until you find the main entrance and follow the roll-ups to the Room O100.
 
 #### Map
 
