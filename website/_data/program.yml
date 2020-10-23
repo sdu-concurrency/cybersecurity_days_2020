@@ -3,89 +3,54 @@
   color: "#aeb4ff"
   theme: "First day"
   events:
-    - title: Registration & coffee
-      from: "08:30"
-      to: "09:00"
-      non-session: true
-      location:
     - title: Opening
       from: "09:00"
       to: "09:30"
-      authors:
-        - name:
-          title:
-      description: 
-      location: 
     - title: Cybersecurity Threats in Denmark
       from: "09:30"
       to: "10:30"
       authors:
         - name: Mark A. Fiedel
           title: Head of Threat Assessment at CFCS 
-      location: 
       description: "Invited talk presenting the Cybersecurity Threats faced today by Danish Companies"
-    - title: Coffee break
-      from: "10:30"
-      to: "10:50"
-      non-session: true
-      location:
+#   - title: Short break
+#     from: "10:30"
+#     to: "10:40"
+#     non-session: true
+#     location:
     - title: Blockchain Technology
-      from: "10:50"
-      to: "11:50"
+      from: "10:40"
+      to: "11:40"
       authors:
         - name: Diego Aranha (AU)
           title: Lecturer
-      location:
-      description:
-    - title: Lunch
-      from: "11:50"
-      to: "13:15"
-      non-session: true
-      location: 
+#   - title: Lunch break
+#     from: "11:40"
+#     to: "13:00"
+#     non-session: true
     - title: Computing on Encrypted Data for Fun and Profit
-      location:
-      from: "13:15"
-      to: "14:15"
+      from: "13:00"
+      to: "14:00"
       authors:
         - name: Bernardo David (ITU)
           title: Lecturer
-      description: 
-    - title: Short break
-      from: "14:15"
-      to: "14:20"
-      location: 
-      non-session: true
     - title: Security in e-voting
-      from: "14:20"
-      to: "15:20"
+      from: "14:05"
+      to: "15:05"
       authors:
         - name: Lorena Ronquillo Moreno (KEA)
           title: Lecturer
-      location:
-      description: 
-    - title: Coffee break
-      from: "15:20"
-      to: "15:40"
-      location:
-      non-session: true
     - title: Secure Application Development with Crypto Devices 
-      from: "15:40"
-      to: "16:40"
+      from: "15:05"
+      to: "16:10"
       authors:
         - name: Tomasz Blaszczyk (DTU)
           title: Lecturer
-      location:
-      description: 
 
 - day: October 30st
   theme: "Second Day"
   color: "#aeffbf"
   events:
-    - title: Registration & coffee
-      from: "08:45"
-      to: "09:00"
-      non-session: true
-      location:
     - title: They caught the hacker
       description:
       from: "9:00"
@@ -95,40 +60,28 @@
         - name: Kamilla Harritsø
           title: Chief Strategy Officer at Gul og Gratis
       location: 
-    - title: Coffee break
-      from: "10:00"
-      to: "10:30"
-      non-session: true
-      location:
     - title: Cybersecurity from Management Perspective
-      from: "10:30"
-      to: "11:30"
+      from: "10:10"
+      to: "11:10"
       location: 
       authors:
         - name: Xiao Xiao and Irfan Kanat (CBS)
           title: Lecturers
-    - title: Lunch
-      from: "11:30"
-      to: "13:00"
-      non-session: true
-      location:
+#   - title: Lunch break
+#     from: "11:10"
+#     to: "12:30"
+#     non-session: true
     - title: Formal Methods for Cybersecurity
-      from: "13:00"
-      to: "14:00"
+      from: "12:30"
+      to: "13:30"
       location:
       authors:
         - name: Marco Peressotti (SDU)
           title: Lecturer
-      description:
     - title: Capture the Flag Competition
-      from: "14:00"
-      to: "15:00"
+      from: "13:40"
+      to: "14:40"
       location:
       authors:
         - name: Emmanouil Vasilomanolakis (AUU)
           title: Lecturer
-    - title: Closing & drinks
-      from: "15:00"
-      to: "15:30"
-      location: 
-      non-session: true
