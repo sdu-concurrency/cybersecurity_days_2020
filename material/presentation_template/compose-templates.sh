@@ -13,5 +13,6 @@ do
 	i=$((i+1))
  	pdfunite seminar_template.pdf "$f" "session_slides/session_template-$i.pdf"
 done
+rm seminar_template.pdf
 rm session_templates.pdf
 rm session_temp-*.pdf
