@@ -30,8 +30,7 @@
   bio: |
     Mark Fiedel is Head of the Center for Cyber Security Analysis. He has worked with IT security, cyber threats and security for most of his professional career.
 
-    Marks department is responsible for overseeing potential cyber threats that pose a threat to Denmark and Danish interests. Among other things, the department is responsible for the preparation of the ongoing threat assessments.
-
+    Mark's department is responsible for overseeing potential cyber threats that pose a threat to Denmark and Danish interests. Among other things, the department is responsible for the preparation of the ongoing threat assessments.
   title: "Cybersecurity Threats in Denmark"
 
 - name: "Irfan Kanat"
@@ -63,7 +62,7 @@
   picture: "mperessotti.png"
   bio: |
     Marco Peressotti is an Assistant Professor of Computer Science at the University of Southern Denmark, Department of Mathematics and Computer Science. Marco serves as event coordinator of the Microservices Community. He received his Ph.D. Degree in Computer Science from the University of Udine, Italy in 2017. Marco’s research mission is to make it more effective and robust to program and analyse concurrent systems. An overarching theme of his research approach is the use of formal methods and programming languages techniques as well as the aim for a unifying mathematical perspective rooted in logic and category theory.
-  title: "Formal Methods for Cybersecurity"
+  title: "Introduction to Formal Methods"
 
 - name: "Emmanouil Vasilomanolakis "
   affiliation: "Aalborg University"

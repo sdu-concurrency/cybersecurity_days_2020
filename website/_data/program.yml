@@ -51,14 +51,13 @@
   theme: "Second Day"
   color: "#aeffbf"
   events:
-    - title: They caught the hacker
+    - title: Stories from the industry
       description:
       from: "9:00"
       to: "10:00"
-      description: "Invited talk where Gul og Gratis (Jysk Fynske Medier) presents its experience with a hacker attack happened in 2019"
       authors:
-        - name: Kamilla Harritsø
-          title: Chief Strategy Officer at Gul og Gratis
+        - name: Ken Bonefeld Nielsen 
+          title: Vice President & CISO of Norlys
       location: 
     - title: Cybersecurity from Management Perspective
       from: "10:10"
@@ -71,7 +70,7 @@
 #     from: "11:10"
 #     to: "12:30"
 #     non-session: true
-    - title: Formal Methods for Cybersecurity
+    - title: Introduction to Formal Methods
       from: "12:30"
       to: "13:30"
       location:
