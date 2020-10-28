@@ -8,7 +8,6 @@ exclude:
 - alembic-jekyll-theme.gemspec
 - submission.md
 - include_md.html
-- attending.md
 
 # 2. Installed Gems
 plugins:
