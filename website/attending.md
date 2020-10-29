@@ -13,6 +13,14 @@ We kindly ask you to use your name on both platforms, possibly adding your affil
 
 Hope to see you all on Zoom or Gather.town.
 
+<h2>Capture the Flag Competition</h2>
+For the capture the flag competition (to be held on the 30th at 13:40-14:40) we ask participants to pre-register (i.e. just create an account) to our platform anytime tomorrow morning (so that we can avoid congestion in the beginning of the lecture). To do this please:
+<ul>
+<li>visit <a href="https://cyberdays2020.ntp-event.dk/" target="_black">https://cyberdays2020.ntp-event.dk/</a> and </li>
+<li>create an account by clicking sign-up (note that no confirmation email is sent to you by the system)</li>
+<li>Upon creating an account you are ready for the competition; please do not start solving challenges yet :smile:</li>
+</ul>
+Thanks and looking forward to meet you all tomorrow!
 
 {%- comment -%}
 <ul class="nav nav-tabs nav-justified">
