@@ -10,11 +10,15 @@ The CyberSecurity Days are designed with the primary goal to provide participant
 
 CyberSecurity Days also serve as a place where industry, public companies, students, and institutions can meet, discuss about cybersecurity and informally explore future collaborations. It is a special occasion to talk to experts on cybersecurity and network with professionals from industry, academia, and the public sector.
 
-The 2020 edition of CyberSecurity Days will take place from October 29th to October 31st, 2020 <ins class="bg-success"> as a free online event.<ins>. Lectures will be delivered via <a href="https://zoom.us/" target="_black">Zoom</a>. Sign up <a src="/register">here</a> to participate.
+{% comment -%}
+The 2020 edition of CyberSecurity Days will take place from October 29th to October 31st, 2020 as a free online event.<ins>. Lectures will be delivered via <a href="https://zoom.us/" target="_black">Zoom</a>. Sign up <a src="/register">here</a> to participate.
 
 There are no strict prerequisites for the attendance; however, the seminar will be mainly targeted to people working in fields related to information and communication technology. The lectures will be given either in Danish or in English; in case non-Danish speaking attendees are present, lectures will be given in English.
 
 For the exercise sessions, participants are asked to bring their own laptop.
+{%- endcomment %}
+
+The 2020 edition of CyberSecurity Days took place from October 29th to October 31st, 2020 as a free online event. There were no strict prerequisites for the attendance; however, the seminar mainly targeted people working in fields related to information and communication technology. The lectures were given either in Danish or in English defaulting to English when non-Danish speaking attendees were present.
 
 <del class="text-muted">The participation fee is 1000 DKK (tax excluded) and it includes meals and coffee breaks.  A reduced fee of 250 DKK (tax excluded) is available to students for a maximum of 10 places.
 Please note, places are limited to 60 participants and they will be allocated on a first-come-first-served basis.</del>

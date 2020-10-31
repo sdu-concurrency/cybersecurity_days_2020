@@ -25,8 +25,6 @@ The finalised version will be published at the beginning of February.
   .btn:focus { outline: 0 !important; }
 </style>
 
-
-The presentations will be held on Zoom and you can access the conference at the following link <a href="https://syddanskuni.zoom.us/j/69612294019">https://syddanskuni.zoom.us/j/69612294019</a>.
 The lectures will be given either in Danish or in English; in case non-Danish
 speaking attendees are present, lectures will be given in English.
 

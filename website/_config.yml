@@ -7,6 +7,8 @@ exclude:
 - Gemfile.lock
 - alembic-jekyll-theme.gemspec
 - submission.md
+- attending.md
+- registration.md
 - include_md.html
 
 # 2. Installed Gems
@@ -56,6 +58,6 @@ navigation_header:
   Speakers: /speakers/
   Program: /program/
 # Attending: /attending/
-  Registration: /registration/
+# Registration: /registration/
   Organisation: /organisation/
   Contact: /contact/

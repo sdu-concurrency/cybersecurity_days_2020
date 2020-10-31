@@ -77,6 +77,8 @@
 }
 </style>
 
+
+{%- comment -%}
 <div class="panel panel-primary">
 <div class="panel-heading">
 <strong>Registration</strong>
@@ -89,6 +91,7 @@
 </li>
 </ul>
 </div>
+{%- endcomment -%}
 
 <div class="panel panel-primary">
 <div class="panel-heading">

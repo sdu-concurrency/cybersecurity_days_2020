@@ -4,6 +4,7 @@ layout: page
 #feature_image: "/assets/images/lion.jpg"
 ---
 
+{%- comment -%}
 The Cybersecurity Days event will be held virtually. The presentations will be held on Zoom and you can access the conference at the following link <a href="https://syddanskuni.zoom.us/j/69612294019">https://syddanskuni.zoom.us/j/69612294019</a>. You are free to join and leave at any time.
  
 For the network and social activities we will use the Gather.town platform available at  
@@ -21,6 +22,7 @@ For the capture the flag competition (to be held on the 30th at 13:40-14:40) we 
 <li>Upon creating an account you are ready for the competition; please do not start solving challenges yet :smile:</li>
 </ul>
 Thanks and looking forward to meet you all tomorrow!
+{%- endcomment -%}
 
 {%- comment -%}
 <ul class="nav nav-tabs nav-justified">

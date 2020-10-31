@@ -9,7 +9,7 @@
 
 - summary: Cybersecurity Days
   id: cybersecurity school
-  expired: false
+  expired: true
   entries:
     - from: 2020-10-29
       to: 2020-10-30
