@@ -13,33 +13,27 @@
         - name: Mark A. Fiedel
           title: Head of Threat Assessment at CFCS 
       description: "Invited talk presenting the Cybersecurity Threats faced today by Danish Companies"
-#   - title: Short break
-#     from: "10:30"
-#     to: "10:40"
-#     non-session: true
-#     location:
     - title: Blockchain Technology
       from: "10:40"
       to: "11:40"
       authors:
         - name: Diego Aranha (AU)
           title: Lecturer
-#   - title: Lunch break
-#     from: "11:40"
-#     to: "13:00"
-#     non-session: true
+      video: vaOWoSo5tYE
     - title: Computing on Encrypted Data for Fun and Profit
       from: "13:00"
       to: "14:00"
       authors:
         - name: Bernardo David (ITU)
           title: Lecturer
+      video: 2aoE24CT0UE
     - title: Security in e-voting
       from: "14:05"
       to: "15:05"
       authors:
         - name: Lorena Ronquillo Moreno (KEA)
           title: Lecturer
+      video: 6KimSC7heHM
     - title: Secure Application Development with Crypto Devices 
       from: "15:10"
       to: "16:10"
@@ -66,6 +60,7 @@
       authors:
         - name: Xiao Xiao and Irfan Kanat (CBS)
           title: Lecturers
+      video: W5NPHXJ35W4
 #   - title: Lunch break
 #     from: "11:10"
 #     to: "12:30"
@@ -77,6 +72,7 @@
       authors:
         - name: Marco Peressotti (SDU)
           title: Lecturer
+      video: nndcr1sWnTc
     - title: Capture the Flag Competition
       from: "13:40"
       to: "14:40"
@@ -84,3 +80,4 @@
       authors:
         - name: Emmanouil Vasilomanolakis (AUU)
           title: Lecturer
+      video: ftZbDi6GbLw

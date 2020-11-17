@@ -25,8 +25,12 @@ The finalised version will be published at the beginning of February.
   .btn:focus { outline: 0 !important; }
 </style>
 
+{% comment %}
 The lectures will be given either in Danish or in English; in case non-Danish
 speaking attendees are present, lectures will be given in English.
+{% endcomment %}
+
+You can recordings of the lectures on our [YouTube channel](https://www.youtube.com/channel/UCp3OmfUjujhdTDzvtuyX_Rg/) or following the links in the program below.
 
 {% for day in site.data.program %}
 
@@ -54,7 +58,13 @@ speaking attendees are present, lectures will be given in English.
           {% if event.slides %}
             <br>
             <a target="_blank" style="color:white" href="/slides/{{event.slides}}"><label class="btn btn-xs btn-success">
-            <span class="glyphicon glyphicon-circle-arrow-down"></span> Slides</label></a> 
+            <span class="glyphicon glyphicon-blackboard"></span> Slides</label></a> 
+            <br>
+          {% endif %}
+          {% if event.video %}
+            <br>
+            <a target="_blank" style="color:white" href="https://www.youtube.com/watch?v={{event.video}}"><label class="btn btn-xs btn-success">
+            <span class="glyphicon glyphicon-film"></span> Video</label></a> 
             <br>
           {% endif %}
           {% if event.description %}
